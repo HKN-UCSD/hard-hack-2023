@@ -200,3 +200,44 @@ dropdown-box {
 	margin: auto;
 	font-size: max(10px,min(1em,3vw));
 }
+
+#UCSD-JacobSchool-container {
+	position: absolute;
+	width: 484px;
+	height: 153px;
+	left: 482px;
+	top: 3791px;
+
+}
+
+#Texas-Instrument-container{
+position: absolute;
+width: 584.1px;
+height: 319.23px;
+left: 457.47px;
+top: 3976.67px;
+
+}
+
+#Northrop-Grumman-container{
+	position: absolute;
+	width: 487.1px;
+	height: 184px;
+	left: 471px;
+	top: 4318px;
+}
+
+#Sponsors-text{
+	position: absolute;
+	width: 476px;
+	height: 104px;
+	left: 482px;
+	top: 3592px;
+
+	font-family: 'Lexend Peta';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 68px;
+	line-height: 85px;
+	text-align: center;
+}
