@@ -31,6 +31,12 @@ class SectionHeading extends HTMLElement {
 						</svg>
 						<h1 style="font-size: 2.5em; font-weight: 700;">${title}</h1>
 						<div>
+							<div>
+								<svg>
+									<path d="M2.5 14H156" stroke="white" stroke-width="4" stroke-linecap="round"/>
+									<circle cx="169.5" cy="14.5" r="12.5" stroke="white" stroke-width="4"/>
+								</svg>
+							</div>
 						</div>
 						<div style="flex: 0 0 1em;"></div>
 					</div>
