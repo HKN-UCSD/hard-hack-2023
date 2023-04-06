@@ -18,12 +18,12 @@ section-heading h1 {
 
 section-heading svg {
 	fill: none;
-	flex: 0 1 auto;
+	flex: 0 1 300px;
 	position: relative;
 }
 section-heading div div {
 	margin: 0;
-	flex: 0 1 auto;
+	flex: 0 1 300px;
 	display: flex;
 	justify-content: flex-end;
 	overflow: clip;
