@@ -26,6 +26,7 @@ section-heading div.side {
 	position: static;
 	display: flex;
 	justify-content: flex-end;
+	-webkit-justify-content: flex-end;
 	overflow: clip;
 }
 
