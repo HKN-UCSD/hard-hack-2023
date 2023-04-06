@@ -2,7 +2,7 @@ section-heading {
 	display: block;
 }
 
-section-heading div {
+section-heading .container {
 	display: flex;
 	width: fit-content;
 	max-width: 100vw;
@@ -16,20 +16,20 @@ section-heading h1 {
 	flex: 0 0 auto;
 }
 
-section-heading svg {
+section-heading .side {
 	fill: none;
 	flex: 0 1 300px;
 	position: relative;
 }
-section-heading div div {
+section-heading div.side {
 	margin: 0;
-	flex: 0 1 300px;
+	position: static;
 	display: flex;
 	justify-content: flex-end;
 	overflow: clip;
 }
 
-section-heading div div div {
+section-heading div.left-wrapper {
 	float: right;
 	width: fit-content;
 	overflow: visible;
