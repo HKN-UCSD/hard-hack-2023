@@ -33,4 +33,5 @@ section-heading div div div {
 	float: right;
 	width: fit-content;
 	overflow: visible;
+	flex: 0;
 }
